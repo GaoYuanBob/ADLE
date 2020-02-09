@@ -29,7 +29,7 @@
 
 #### 7. "throw sb a bone" -- 可怜某人
 &emsp;&emsp;给某人仍骨头，也就是可怜某人。\
-&emsp;&emsp;例句：Sheldon对Lenard说 "The fact is I was throwing you a bone."\
+&emsp;&emsp;例句：Sheldon对Leonard说 "The fact is I was throwing you a bone."\
 &emsp;&emsp;&emsp;&emsp;&emsp;事实就是，我只是在可怜你。
 
 #### 8. "get off topic" -- 转移话题
