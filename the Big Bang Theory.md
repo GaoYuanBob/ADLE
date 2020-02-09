@@ -40,4 +40,8 @@
 &emsp;&emsp;例句："You're way out of line."\
 &emsp;&emsp;&emsp;&emsp;&emsp;你太过分了。
 
-#### 10. 
+#### 10. "Whatever floats your boat." -- 你想做啥就做啥
+&emsp;&emsp;例句："It's your birthday. We can go to the theatre or have a meal in a posh restaurant. Whatever floats your boat."\
+&emsp;&emsp;&emsp;&emsp;&emsp;这是你的生日，我们可以去看电影或者去豪华餐厅吃饭，你爱做什么做什么。
+
+#### 11. ""
