@@ -53,4 +53,9 @@
 &emsp;&emsp;例句："Don't. He's making our case."\
 &emsp;&emsp;&emsp;&emsp;&emsp;别打断他，他在帮我们说话啊。
 
-#### 13. 
+#### 13. "Was that .., or what?" -- xxx，你们说是不是
+&emsp;&emsp;例句："Was that the best 99 cent I ever spent, or what?"\
+&emsp;&emsp;&emsp;&emsp;&emsp;你们说，这是不是我99美分花的最值的一次？
+
+#### 14. ""
+
