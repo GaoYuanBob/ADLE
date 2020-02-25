@@ -49,4 +49,8 @@
 &emsp;&emsp;&emsp;B: No, Japanese cuisine is the best.\
 &emsp;&emsp;&emsp;A: Well, let's just agree to disagree.
 
-#### 12. 
+#### 12. "make sb's case" -- 为xx说话
+&emsp;&emsp;例句："Don't. He's making our case."\
+&emsp;&emsp;&emsp;&emsp;&emsp;别打断他，他在帮我们说话啊。
+
+#### 13. 
