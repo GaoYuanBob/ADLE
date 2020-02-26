@@ -1,3 +1,4 @@
+## 俚语
 #### 1. "Apples and oranges" -- 风马牛不相及，天差地别
 &emsp;&emsp;Penny说 "Apples and oranges here, Sheldon." 用来说明她和新来的美女邻居不一样。\
 &emsp;&emsp;例如：You can't compare them. They are apples and oranges.\
@@ -59,3 +60,6 @@
 
 #### 14. ""
 
+## Funny
+#### 1. "Shelly Cooper's a smelly pooper"
+#### 2. ""
