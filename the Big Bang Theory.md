@@ -58,7 +58,8 @@
 &emsp;&emsp;例句："Was that the best 99 cent I ever spent, or what?"\
 &emsp;&emsp;&emsp;&emsp;&emsp;你们说，这是不是我99美分花的最值的一次？
 
-#### 14. ""
+#### 14. "a hoot and a half" -- 非常有趣
+&emsp;&emsp;例句："That was a hoot and a half。"\
 
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
