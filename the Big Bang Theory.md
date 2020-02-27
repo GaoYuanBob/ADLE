@@ -63,4 +63,4 @@
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
-#### 3.
+#### 3. "It's better to have loved and lost than never to have loved at all"
