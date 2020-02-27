@@ -60,6 +60,7 @@
 
 #### 14. ""
 
-## Funny
+## Else
 #### 1. "Shelly Cooper's a smelly pooper"
-#### 2. ""
+#### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
+#### 3.
