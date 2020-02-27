@@ -61,6 +61,8 @@
 #### 14. "a hoot and a half" -- 非常有趣
 &emsp;&emsp;例句："That was a hoot and a half。"\
 
+#### 15. "like two peas in a pod" -- 一模一样，一丘之貉
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
