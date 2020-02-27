@@ -63,6 +63,8 @@
 
 #### 15. "like two peas in a pod" -- 一模一样，一丘之貉
 
+#### 16. "Yes and no." -- 也不一定，倒也未必
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
