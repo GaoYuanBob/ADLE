@@ -59,7 +59,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;你们说，这是不是我99美分花的最值的一次？
 
 #### 14. "a hoot and a half" -- 非常有趣
-&emsp;&emsp;例句："That was a hoot and a half。"\
+&emsp;&emsp;例句："That was a hoot and a half。"
 
 #### 15. "like two peas in a pod" -- 一模一样，一丘之貉
 
