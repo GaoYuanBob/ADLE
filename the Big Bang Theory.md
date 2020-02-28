@@ -65,6 +65,8 @@
 
 #### 16. "Yes and no." -- 也不一定，倒也未必
 
+#### 17. "burning questions" -- 棘手的问题，热门的问题
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
