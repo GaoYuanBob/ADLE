@@ -71,6 +71,8 @@
 &emsp;&emsp;例句："This woman can read me like a book."\
 &emsp;&emsp;&emsp;&emsp;&emsp;这个女人简直把我看透了。
 
+#### 19. "got a nose bleed" -- 流鼻血
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
