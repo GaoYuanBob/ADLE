@@ -67,6 +67,10 @@
 
 #### 17. "burning questions" -- 棘手的问题，热门的问题
 
+#### 18. "read someone like a book" -- 看透某人
+&emsp;&emsp;例句："This woman can read me like a book."\
+&emsp;&emsp;&emsp;&emsp;&emsp;这个女人简直把我看透了。
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
