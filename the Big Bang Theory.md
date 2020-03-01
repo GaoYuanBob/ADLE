@@ -79,3 +79,4 @@
 #### 3. "It's better to have loved and lost than never to have loved at all"
 #### 4. "Nice hat, Bob Tahecin" (回文)
 #### 5. "You've got a friend in me." （源自《玩具总动员》主题曲）
+#### 6. "pictionary" -- 你画我猜
