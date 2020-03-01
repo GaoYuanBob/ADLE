@@ -73,6 +73,12 @@
 
 #### 19. "got a nose bleed" -- 流鼻血
 
+#### 20. "spoon-feeding" -- 送到嘴边
+&emsp;&emsp;例句1："Teaching can be carried out in three ways: spoon feeding, guidance and advice."\
+&emsp;&emsp;&emsp;&emsp;&emsp;教学方式分为主导、指导、引导三个阶段。\
+&emsp;&emsp;例句2："I'm spoon-feeding this to you."\
+&emsp;&emsp;&emsp;&emsp;&emsp;答案都递到你嘴边了。
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
