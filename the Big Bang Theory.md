@@ -79,6 +79,9 @@
 &emsp;&emsp;例句2："I'm spoon-feeding this to you."\
 &emsp;&emsp;&emsp;&emsp;&emsp;答案都递到你嘴边了。
 
+#### 21. "feel ten pounds lighter." -- 感觉如释重负
+
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
