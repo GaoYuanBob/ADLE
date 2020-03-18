@@ -81,6 +81,9 @@
 
 #### 21. "feel ten pounds lighter." -- 感觉如释重负
 
+#### 22. "a long shot" -- 希望渺茫
+&emsp;&emsp;例句："Look, maybo it is a long shot, but somtimes long shot happens."\
+&emsp;&emsp;&emsp;&emsp;&emsp;你听我说，虽然机会渺茫，但是有时皇天不负有心人，还是可以成功的。
 
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
