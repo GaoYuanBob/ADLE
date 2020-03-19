@@ -85,6 +85,10 @@
 &emsp;&emsp;例句："Look, maybo it is a long shot, but somtimes long shot happens."\
 &emsp;&emsp;&emsp;&emsp;&emsp;你听我说，虽然机会渺茫，但是有时皇天不负有心人，还是可以成功的。
 
+#### 23. "I beg to differ" -- 我不敢苟同，恕难同意
+
+#### 24. ""
+
 ## Else
 #### 1. "Shelly Cooper's a smelly pooper"
 #### 2. Tyra Banks says "the most important item in your makeup bag is a good night's sleep"
