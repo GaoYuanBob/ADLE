@@ -99,3 +99,4 @@
 #### 5. "You've got a friend in me." （源自《玩具总动员》主题曲）
 #### 6. "pictionary" -- 你画我猜
 #### 7. "What does Sheldon Cooper and a black hole have in common? They both suck." （Stephen Hawking）
+#### 8. "May the fourth be with you."
