@@ -88,7 +88,7 @@
 #### 23. "I beg to differ" -- 我不敢苟同，恕难同意
 
 #### 24. "silver lining" -- 黑暗中一丝光明，不幸中的万幸
-&emsp;&emsp;例句："Every cloud,' says the proverb,'has a silver lining,'and so i did not despair."
+&emsp;&emsp;例句："Every cloud,' says the proverb,'has a silver lining,'and so i did not despair."\
 &emsp;&emsp;&emsp;&emsp;&emsp;谚语有云：‘塞翁失马焉知非福（乌云背后总有一线光明）’，所以我并不失望。
 
 ## Else
